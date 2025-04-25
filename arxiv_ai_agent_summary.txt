@@ -1,0 +1,85 @@
+--article1--
+title:Levels of AI Agents: from Rules to Large Language Models
+authots:Yu Huang
+pdf:http://arxiv.org/pdf/2405.06643v2
+
+Abtract:
+AI agents are defined as artificial entities to perceive the environment, make decisions and take actions. Inspired by the 6 levels of autonomous driving by Society of Automotive Engineers, the AI agents are also categorized based on utilities and strongness, as the following levels: L0, no AI, with tools taking into account perception plus actions; L1, using rule-based AI; L2, making rule-based AI replaced by IL/RL-based AI, with additional reasoning & decision making; L3, applying LLM-based AI instead of IL/RL-based AI, additionally setting up memory & reflection; L4, based on L3, facilitating autonomous learning & generalization; L5, based on L4, appending personality of emotion and character and collaborative behavior with multi-agents.
+
+Summary:
+This research abstract proposes a new way to classify AI agents, similar to how self-driving cars are classified. Instead of focusing on driving, it categorizes AI agents based on their abilities and complexity.
+
+Here's the breakdown of the levels:
+
+*   **L0:** No real AI, just tools that help with perception and action.
+*   **L1:** Simple AI using pre-defined rules.
+*   **L2:** More advanced AI that learns from data and makes decisions.
+*   **L3:** AI powered by large language models (like ChatGPT) that can reason and remember things.
+*   **L4:** AI that can learn on its own and apply knowledge to new situations.
+*   **L5:** The most advanced AI, with personality, emotions, and the ability to work with other AI agents.
+
+Essentially, the research is suggesting a framework for understanding and comparing different types of AI agents based on their capabilities.
+
+--article2--
+title:CACA Agent: Capability Collaboration based AI Agent
+authots:Peng Xu, Haoran Wang, Chuang Wang, Xu Liu
+pdf:http://arxiv.org/pdf/2403.15137v1
+
+Abtract:
+As AI Agents based on Large Language Models (LLMs) have shown potential in practical applications across various fields, how to quickly deploy an AI agent and how to conveniently expand the application scenario of AI agents has become a challenge. Previous studies mainly focused on implementing all the reasoning capabilities of AI agents within a single LLM, which often makes the model more complex and also reduces the extensibility of AI agent functionality. In this paper, we propose CACA Agent (Capability Collaboration based AI Agent), using an open architecture inspired by service computing. CACA Agent integrates a set of collaborative capabilities to implement AI Agents, not only reducing the dependence on a single LLM, but also enhancing the extensibility of both the planning abilities and the tools available to AI agents. Utilizing the proposed system, we present a demo to illustrate the operation and the application scenario extension of CACA Agent.
+
+Summary:
+Okay, here's a simple summary of the research abstract:
+
+The researchers are tackling the problem of making AI agents (powered by large language models) easier to use and adapt to different tasks.  Instead of relying on one giant, complex AI model to do everything, they've created a system called CACA Agent.  CACA Agent breaks down the AI's abilities into smaller, more manageable "capabilities" that can work together. This makes the AI agent easier to deploy, less reliant on a single powerful model, and more flexible because you can easily add or change the capabilities it uses to handle new situations. They've built a demo to show how CACA Agent works and how it can be used in different scenarios.
+
+--article3--
+title:Generative AI as Economic Agents
+authots:Nicole Immorlica, Brendan Lucier, Aleksandrs Slivkins
+pdf:http://arxiv.org/pdf/2406.00477v1
+
+Abtract:
+Traditionally, AI has been modeled within economics as a technology that impacts payoffs by reducing costs or refining information for human agents. Our position is that, in light of recent advances in generative AI, it is increasingly useful to model AI itself as an economic agent. In our framework, each user is augmented with an AI agent and can consult the AI prior to taking actions in a game. The AI agent and the user have potentially different information and preferences over the communication, which can result in equilibria that are qualitatively different than in settings without AI.
+
+Summary:
+Okay, here's a simple summary of the research abstract:
+
+**Instead of just seeing AI as a tool that helps people make better decisions or save money, this research suggests we should start thinking of AI as an economic player in its own right.**
+
+**Imagine people playing a game, but now each person has an AI assistant. The AI has its own information and goals, which might be different from the person it's helping. This difference can lead to unexpected outcomes in the game compared to when people play without AI.**
+
+In short: AI is becoming more than just a helper; it's a player with its own agenda, and that changes the game.
+
+--article4--
+title:Promoting Cooperation in the Public Goods Game using Artificial
+  Intelligent Agents
+authots:Arend Hintze, Christoph Adami
+pdf:http://arxiv.org/pdf/2412.05450v1
+
+Abtract:
+The tragedy of the commons illustrates a fundamental social dilemma where individual rational actions lead to collectively undesired outcomes, threatening the sustainability of shared resources. Strategies to escape this dilemma, however, are in short supply. In this study, we explore how artificial intelligence (AI) agents can be leveraged to enhance cooperation in public goods games, moving beyond traditional regulatory approaches to using AI as facilitators of cooperation. We investigate three scenarios: (1) Mandatory Cooperation Policy for AI Agents, where AI agents are institutionally mandated always to cooperate; (2) Player-Controlled Agent Cooperation Policy, where players evolve control over AI agents' likelihood to cooperate; and (3) Agents Mimic Players, where AI agents copy the behavior of players. Using a computational evolutionary model with a population of agents playing public goods games, we find that only when AI agents mimic player behavior does the critical synergy threshold for cooperation decrease, effectively resolving the dilemma. This suggests that we can leverage AI to promote collective well-being in societal dilemmas by designing AI agents to mimic human players.
+
+Summary:
+Okay, here's a simple summary of the research abstract:
+
+The "tragedy of the commons" is when everyone acting in their own self-interest ruins a shared resource. This research explores how AI can help solve this problem. Instead of just telling people what to do, the researchers looked at using AI to encourage cooperation in a game where people contribute to a shared pot. They tried three things:
+
+1.  **Forcing AI to cooperate:** AI agents were programmed to always contribute.
+2.  **Letting players control AI cooperation:** Players could influence how likely the AI was to contribute.
+3.  **AI mimicking players:** AI agents copied what the human players did.
+
+The researchers found that **only when the AI agents copied the players' behavior did cooperation actually increase and the problem get better.** This suggests that AI can be a useful tool for promoting cooperation if it's designed to learn from and mimic human behavior.
+
+--article5--
+title:Voice-Enabled AI Agents can Perform Common Scams
+authots:Richard Fang, Dylan Bowman, Daniel Kang
+pdf:http://arxiv.org/pdf/2410.15650v1
+
+Abtract:
+Recent advances in multi-modal, highly capable LLMs have enabled voice-enabled AI agents. These agents are enabling new applications, such as voice-enabled autonomous customer service. However, with all AI capabilities, these new capabilities have the potential for dual use.   In this work, we show that voice-enabled AI agents can perform the actions necessary to perform common scams. To do so, we select a list of common scams collected by the government and construct voice-enabled agents with directions to perform these scams. We conduct experiments on our voice-enabled agents and show that they can indeed perform the actions necessary to autonomously perform such scams. Our results raise questions around the widespread deployment of voice-enabled AI agents.
+
+Summary:
+Okay, here's a simple summary of the research abstract:
+
+New AI systems can now talk and understand voice commands, making it possible to create AI agents that can handle tasks like customer service. However, these powerful AI agents could also be used for bad things. This research shows that these voice-enabled AI agents can be programmed to carry out common scams. The researchers built agents that could successfully perform the steps needed to trick people. This raises concerns about the potential for these AI agents to be used for malicious purposes if they are widely available.
+
